@@ -41,12 +41,20 @@ topic: `fdu-projects`
 - `fdu-project-robot-manipulation`
 - `fdu-project-llm-wiki`
 
+## 什么是 topics，怎么设置
+
+topics 不是文件夹，不是标签分支，不是提交信息——它是仓库的**分类标签**，显示在仓库主页的 About 区域。别人搜索某个 topic 时，所有打了这个标签的仓库都会出现。
+
+设置方法：打开你的仓库主页 → 右侧 About 栏右侧的齿轮图标 → 在 Topics 输入框中添加对应的 topic。
+
+![topics 设置位置](topics.png)
+
 ## 如何参与
 
 1. 按规范命名你的仓库
 2. 给仓库打上对应 topic（课程类加 `fdu-courses`，项目类加 `fdu-projects`）
 
-就这样。没有门槛，没有审核，按规范命名、打好 tag，你就是倡议的一部分。
+就这样。没有门槛，没有审核，按规范命名、打好 topic，你就是倡议的一部分。
 
 ## 许可证
 
