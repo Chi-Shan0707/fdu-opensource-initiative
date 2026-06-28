@@ -1,20 +1,35 @@
-# 复旦开源倡议
+# 复旦开源倡议：GitHub 仓库命名与 Topics 约定
 
-一个人开源，是一座孤岛；一群人开源，是一片生态。
+<p align="center">
+  <strong>让复旦同学的课程资料、学习笔记和学生项目，更容易被发现。</strong>
+</p>
 
-本倡议只做一件事：**约定一套统一的topics填写规范和仓库命名规范**和。这样，每个人在 GitHub 上开源的课程文档或项目，都能被同伴便捷地发现、搜索、浏览和学习。
+<p align="center">
+  <a href="https://github.com/topics/fudan-university">fudan-university</a> ·
+  <a href="https://github.com/topics/fdu-courses">fdu-courses</a> ·
+  <a href="https://github.com/topics/fdu-projects">fdu-projects</a>
+</p>
 
-不是为了管理，是为了让彼此看见。
+> 一个人开源，是一座孤岛。
+> 一群人开源，是一片生态。
 
-## 为什么需要统一命名
+## 为什么会有这个倡议？
 
-你开源了一份课程笔记、写了一个有趣的项目，但别人怎么找到你？
+在复旦，已经有很多同学在 GitHub 上开源自己的课程笔记、实验代码、复习资料、项目 Demo、工具和研究原型。
 
-如果大家各取其名，散落在 GitHub 的各个角落，好东西也会沉没。统一 topic + 统一命名，就是给自己一个标签、给同伴一个入口：
+这些内容本来很有价值，但它们常常散落在不同的账号、不同的仓库名、不同的标签下面。
+你可能写过一份很好的课程笔记，却很难被后来的同学找到；你可能做过一个有趣的项目，却只停留在自己的主页里。
 
-- 搜 [`fdu-courses`](https://github.com/topics/fdu-courses) 这个 topic，就能看到所有公开的课程仓库
-- 搜 [`fdu-projects`](https://github.com/topics/fdu-projects) 这个 topic，就能看到所有公开的项目仓库
-- 看到同学在做什么，才知道自己能学什么、能合作什么
+这不是因为大家不愿意分享，而是因为我们缺少一个共同的入口。
+
+所以这个倡议只做一件很小的事：
+
+**约定一套统一的 GitHub 仓库命名方式和 Topics 使用规范。**
+
+它不建立中心化平台，不收录仓库列表，不做内容审核，也不要求任何人申请加入。
+只要你愿意按照这个约定命名仓库、添加 Topics，你的仓库就自然成为复旦开源生态的一部分。
+
+**不是为了管理，是为了让彼此看见。**
 
 ## 命名规范
 
@@ -40,6 +55,10 @@ topic: [`fdu-projects`](https://github.com/topics/fdu-projects)
 示例：
 - `fdu-project-robot-manipulation`
 - `fdu-project-llm-wiki`
+
+### 通用 topic（可选）
+
+任何与复旦相关的仓库，都建议再打上 [`fudan-university`](https://github.com/topics/fudan-university)，让全校同学都能从一个入口发现你。
 
 ## 什么是 topics，怎么设置
 
