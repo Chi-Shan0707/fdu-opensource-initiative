@@ -2,7 +2,7 @@
 
 一个人开源，是一座孤岛；一群人开源，是一片生态。
 
-本倡议只做一件事：**约定一套统一的仓库命名规范**。这样，每个人在 GitHub 上开源的课程文档或项目，都能被同伴便捷地发现、搜索、浏览和学习。
+本倡议只做一件事：**约定一套统一的topics填写规范和仓库命名规范**和。这样，每个人在 GitHub 上开源的课程文档或项目，都能被同伴便捷地发现、搜索、浏览和学习。
 
 不是为了管理，是为了让彼此看见。
 
@@ -10,17 +10,17 @@
 
 你开源了一份课程笔记、写了一个有趣的项目，但别人怎么找到你？
 
-如果大家各取其名，散落在 GitHub 的各个角落，好东西也会沉没。统一命名 + 统一 topic，就是给自己一个标签、给同伴一个入口：
+如果大家各取其名，散落在 GitHub 的各个角落，好东西也会沉没。统一 topic + 统一命名，就是给自己一个标签、给同伴一个入口：
 
-- 搜 `fdu-courses` 这个 topic，就能看到所有公开的课程仓库
-- 搜 `fdu-projects` 这个 topic，就能看到所有公开的项目仓库
+- 搜 [`fdu-courses`](https://github.com/topics/fdu-courses) 这个 topic，就能看到所有公开的课程仓库
+- 搜 [`fdu-projects`](https://github.com/topics/fdu-projects) 这个 topic，就能看到所有公开的项目仓库
 - 看到同学在做什么，才知道自己能学什么、能合作什么
 
 ## 命名规范
 
 ### 课程类
 
-topic: `fdu-courses`
+topic: [`fdu-courses`](https://github.com/topics/fdu-courses)
 
 格式：`fdu-course-<课程英文名>-<学期>`
 
@@ -33,7 +33,7 @@ topic: `fdu-courses`
 
 ### 项目类
 
-topic: `fdu-projects`
+topic: [`fdu-projects`](https://github.com/topics/fdu-projects)
 
 格式：`fdu-project-<项目名>`
 
